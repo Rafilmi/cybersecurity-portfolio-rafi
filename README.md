@@ -7,10 +7,16 @@
 
 ## 📌 Table of Contents
 - [🧑‍🔬 About Me](#-about-me)
+- [🎓 Education]
+- [🏢 Work Experience]
+- [🔍 Skills]
 - [🔴 Offensive Security Portfolio](#-offensive-security-portfolio)
 - [🔵 Defensive Security Portfolio](#-defensive-security-portfolio)
 - [🛠️ Tools & Frameworks](#-tools--frameworks)
 - [📊 Competencies Demonstrated](#-competencies-demonstrated)
+- [📖 Projects]
+- [📄 Certificates]
+- [🏅 Achievements]
 - [📬 Contact](#-contact)
 
 ---
