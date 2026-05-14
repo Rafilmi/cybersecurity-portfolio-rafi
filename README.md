@@ -1,17 +1,21 @@
 # Cyber Security Portfolio - Rafi Ilmi Putra Nurwahyudi
 
-> **Role:** Offensive & Defensive Security Analyst  
-> **Focus:** Web Application Penetration Testing | Digital Forensics & Incident Response (DFIR)  
-> **Batch:** Bootcamp Cyber Security Batch 04 | 📅 October 2025  
+> **Role:** Offensive & Defensive Security Analyst
+> **Focus:** Web Application Penetration Testing | Digital Forensics & Incident Response (DFIR)
 
 ---
 
 ## 📌 Table of Contents
+- [🧑‍🔬 About Me](#-about-me)
 - [🔴 Offensive Security Portfolio](#-offensive-security-portfolio)
 - [🔵 Defensive Security Portfolio](#-defensive-security-portfolio)
 - [🛠️ Tools & Frameworks](#-tools--frameworks)
 - [📊 Competencies Demonstrated](#-competencies-demonstrated)
 - [📬 Contact](#-contact)
+
+---
+## 🧑‍🔬 About Me
+I'm currently a computer science graduate, researching smart contract vulnerabilities using deep learning. I'm starting my career in cybersecurity with a focus on penetration testing. Previously, I attended a six-month bootcamp and completed two final projects that trained me in offensive and defensive security. In the future, I'd like to pursue a career as a penetration tester, particularly in the field of web penetration testing, as I'm interested in continuously developing my technical skills and contributing to system security.
 
 ---
 
