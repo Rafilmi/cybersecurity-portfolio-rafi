@@ -35,7 +35,7 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 
 ## 🔍 Skills
 - **Hard Skills:** Penetration Testing, Risk Assessment, Threat Detection, Incident Response
-- **Soft Skills:** Continuous Learning, Time Management, Active Listening, Dedication
+- **Soft Skills:** Communication, Continuous Learning, Time Management, Dedication
 - **Tools:** Burp Suite, Wireshark, Metasploit, Nmap
 - **Languages:** Indonesian, English
 
