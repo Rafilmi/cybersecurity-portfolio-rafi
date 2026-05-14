@@ -1,27 +1,43 @@
 # Cyber Security Portfolio - Rafi Ilmi Putra Nurwahyudi
 
-> **Role:** Offensive & Defensive Security Analyst
-> **Focus:** Web Application Penetration Testing | Digital Forensics & Incident Response (DFIR)
+> **Role:** Offensive & Defensive Security Analyst  
+> **Focus:** Web Application Penetration Testing | Digital Forensics & Incident Response (DFIR)  
 
 ---
 
 ## 📌 Table of Contents
 - [🧑‍🔬 About Me](#-about-me)
-- [🎓 Education]
-- [🏢 Work Experience]
-- [🔍 Skills]
+- [🎓 Education](#-education)
+- [🏢 Work Experience](#-work-experience)
+- [🔍 Skills](-skills)
 - [🔴 Offensive Security Portfolio](#-offensive-security-portfolio)
 - [🔵 Defensive Security Portfolio](#-defensive-security-portfolio)
 - [🛠️ Tools & Frameworks](#-tools--frameworks)
 - [📊 Competencies Demonstrated](#-competencies-demonstrated)
-- [📖 Projects]
-- [📄 Certificates]
-- [🏅 Achievements]
+- [📖 Projects](#-projects)
+- [📄 Certificates](#-certificates)
+- [🏅 Achievements](#-achievements)
 - [📬 Contact](#-contact)
 
 ---
 ## 🧑‍🔬 About Me
 I'm currently a computer science graduate, researching smart contract vulnerabilities using deep learning. I'm starting my career in cybersecurity with a focus on penetration testing. Previously, I attended a six-month bootcamp and completed two final projects that trained me in offensive and defensive security. In the future, I'd like to pursue a career as a penetration tester, particularly in the field of web penetration testing, as I'm interested in continuously developing my technical skills and contributing to system security.
+
+## 🎓 Education
+- University of Electronic Science and Technology of China, Master of Computer Science (Sep 2024 - Jul 2026)
+- Shandong University of Science and Technology, Bachelor of Telecommunication Engineering (Sep 2022 - Jul 2024)
+- State Polytechnic of Malang, Bachelor of Applied Studies (Sep 2020 - Jul 2022)
+
+## 🏢 Work Experience
+PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
+- Learning how to use dedicated applications for antenna maintenance, thereby understanding how to maintain antennas regularly
+- Simulate the Linux operating system using VirtualBox, so that we can use Linux-based applications within the VirtualBox application
+
+## 🔍 Skills
+- **Hard Skills:** Penetration Testing, Risk Assessment, Threat Detection, Incident Response
+- **Soft Skills:** Continuous Learning, Time Management, Active Listening, Dedication
+- **Tools:** Burp Suite, Wireshark, Metasploit, Nmap
+- **Languages:** Indonesian, English
 
 ---
 
@@ -140,8 +156,33 @@ I'm currently a computer science graduate, researching smart contract vulnerabil
 ✅ MITRE ATT&CK Mapping & Risk Assessment  
 ✅ Secure Coding Recommendations & Hardening Strategy  
 
+---
+
+## 📖 Projects
+- Intuitive and Natural Control through Hand Gestures for Effortless Interactions in Portable Computer Devices
+  An algorithm was created using the Python programming language to control the mouse cursor using hand gestures.
+- Image Classification
+  A rudimentary machine learning model was developed in Python to classify hand gestures in image.
+- Sentiment Analysis
+  A basic machine learning model utilizing TF-IDF to evaluate reviews to gain an understanding of whether the sentences tend to be positive, negative, or neutral.
+- Hierarchical Graph Transformer with Adaptive Community Integration for Smart Contracts Vulnerability Detection
+  A deep learning model implementing Hierarchical Graph Transformer to detect vulnerabilities in smart contract for DevSecOps purpose.
+
+## 📄 Certificates
+- **Learn Machine Learning for Beginners** by Dicoding (2024 July)
+- **Learn Fundamentals of AI** by Dicoding (2024 September)
+- **Learn Fundamentals of Deep Learning** by Dicoding (2025 November)
+- **Networking Basics** by Cisco (2026 April)
+- **Networking Devices and Initial Configuration** by Cisco (2026 April)
+- **Cybersecurity Essentials** by Cisco (in progress)
+
+## 🏅 Achievements
+- Best Final Project Phase Offensive in Cyber Security Bootcamp Batch 4
+
+---
+
 ## 📬 Contact
-📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]`  
+📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]` | 📱 `[+62 82246894989]`  
 *Open for Security Analyst / Pentester / DFIR Roles*
 
 > 🔐 *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
