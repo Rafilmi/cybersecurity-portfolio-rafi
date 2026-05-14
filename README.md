@@ -131,7 +131,7 @@
 ✅ Secure Coding Recommendations & Hardening Strategy  
 
 ## 📬 Contact
-📧 `[your.email@example.com]` | 💼 `[LinkedIn URL]` | 🐙 `[GitHub URL]` | 📱 `[Phone Number]`  
+📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]`  
 *Open for Security Analyst / Pentester / DFIR Roles*
 
 > 🔐 *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
