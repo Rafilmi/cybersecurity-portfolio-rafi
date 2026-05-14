@@ -181,4 +181,4 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]` | 📱 `[+62 82246894989]`  
 *Open for Security Analyst / Pentester / DFIR Roles*
 
-> 🔐 *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
+> *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
