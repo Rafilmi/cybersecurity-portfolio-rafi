@@ -128,9 +128,9 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 - **Persistence:** Webshells remain active as long as Apache runs & files aren't deleted
 
 ### 📊 Risk Assessment (CIA Triad)
-- 🔒 **Confidentiality:** 🔴 High (Public DB backup, SQLi extraction)
-- ✅ **Integrity:** 🔴 High (Logs deleted, webshells planted, data mutable)
-- 📡 **Availability:** 🟠 Medium-High (Root access enables shutdown/ransomware)
+- **Confidentiality:** 🔴 High (Public DB backup, SQLi extraction)
+- **Integrity:** 🔴 High (Logs deleted, webshells planted, data mutable)
+- **Availability:** 🟠 Medium-High (Root access enables shutdown/ransomware)
 
 ### 🛡️ Incident Response & Hardening
 - **Immediate:** Block attacker IPs, isolate server, purge webshells/exploits, rotate all credentials, move DB backups outside web root
@@ -149,12 +149,12 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 | **Frameworks** | OWASP Top 10 2021, MITRE ATT&CK, CVSS v3.1, PTES, NIST SP 800-61 |
 
 ## 📊 Competencies Demonstrated
-✅ Vulnerability Assessment & Penetration Testing (VAPT)  
-✅ Chained Exploitation & Business Logic Testing  
-✅ Log Correlation & Digital Forensics (DFIR)  
-✅ Malware & Webshell Analysis  
-✅ MITRE ATT&CK Mapping & Risk Assessment  
-✅ Secure Coding Recommendations & Hardening Strategy  
+- Vulnerability Assessment & Penetration Testing (VAPT)  
+- Chained Exploitation & Business Logic Testing  
+- Log Correlation & Digital Forensics (DFIR)  
+- Malware & Webshell Analysis  
+- MITRE ATT&CK Mapping & Risk Assessment  
+- Secure Coding Recommendations & Hardening Strategy  
 
 ---
 
