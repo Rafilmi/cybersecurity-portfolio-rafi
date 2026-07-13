@@ -21,7 +21,9 @@
 
 ---
 ## 🧑‍🔬 About Me
-I'm currently a computer science graduate, researching smart contract vulnerabilities using deep learning. I'm starting my career in cybersecurity with a focus on penetration testing. Previously, I attended a six-month bootcamp and completed two final projects that trained me in offensive and defensive security. In the future, I'd like to pursue a career as a penetration tester, particularly in the field of web penetration testing, as I'm interested in continuously developing my technical skills and contributing to system security.
+I'm an aspiring Penetration Tester with a Master's in Computer Science and hands-on offensive security experience from diBimbing's 6-month Cybersecurity Bootcamp. During a live web application pentest, I identified 11 vulnerabilities, including 3 critical and 5 high-severity findings, following OWASP Top 10 methodology, earning the Best Final Project Phase Offensive award.
+I work with tools like Nmap, Burp Suite, Metasploit, and Wireshark on Linux, and use Python to streamline my testing workflow. My thesis on vulnerability detection in blockchain smart contracts fuels my interest in emerging attack surfaces beyond the traditional web stack.
+I'm currently seeking entry-level opportunities in penetration testing and offensive security, always up for a challenge that involves finding what others miss.
 
 ## 🎓 Education
 - **University of Electronic Science and Technology of China**, Master of Computer Science (Sep 2024 - Jul 2026)
@@ -159,21 +161,15 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 ---
 
 ## 📖 Projects
-- **Intuitive and Natural Control through Hand Gestures for Effortless Interactions in Portable Computer Devices.** An algorithm was created using the Python programming language to control the mouse cursor using hand gestures.
-- **Image Classification.** A rudimentary machine learning model was developed in Python to classify hand gestures in image.
-- **Sentiment Analysis.** A basic machine learning model utilizing TF-IDF to evaluate reviews to gain an understanding of whether the sentences tend to be positive, negative, or neutral.
 - **Hierarchical Graph Transformer with Adaptive Community Integration for Smart Contracts Vulnerability Detection.** A deep learning model implementing Hierarchical Graph Transformer to detect vulnerabilities in smart contract for DevSecOps purpose.
 
 ## 📄 Certificates
-- **Learn Machine Learning for Beginners** by Dicoding (2024 July)
-- **Learn Fundamentals of AI** by Dicoding (2024 September)
-- **Learn Fundamentals of Deep Learning** by Dicoding (2025 November)
-- **Networking Basics** by Cisco (2026 April)
-- **Networking Devices and Initial Configuration** by Cisco (2026 April)
-- **Cybersecurity Essentials** by Cisco (in progress)
+- **Cybersecurity Essentials** by Cisco (July 2026)
+- **Cybersecurity Bootcamp** by dibimbing (March 2026)
 
 ## 🏅 Achievements
-- Best Final Project Phase Offensive in Cyber Security Bootcamp Batch 4
+- Best Final Project Phase Offensive in CyberSecurity Bootcamp Batch 4
+- 2nd Runner Up Best Performer in Cybersecurity Bootcamp Batch 4
 
 ---
 
