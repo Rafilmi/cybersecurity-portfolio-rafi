@@ -177,6 +177,5 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 
 ## 📬 Contact
 📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]` | 📱 `[+62 82246894989]`  
-*Open for Pentester Role*
 
 > *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
