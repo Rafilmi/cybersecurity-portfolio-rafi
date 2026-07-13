@@ -1,6 +1,6 @@
 # Cyber Security Portfolio - Rafi Ilmi Putra Nurwahyudi
 
-> **Role:** Offensive & Defensive Security Analyst  
+> **Role:** Penetration Tester | Offensive Security Analyst  
 > **Focus:** Web Application Penetration Testing | Digital Forensics & Incident Response (DFIR)  
 
 ---
