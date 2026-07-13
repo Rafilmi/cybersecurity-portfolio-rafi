@@ -22,7 +22,9 @@
 ---
 ## 🧑‍🔬 About Me
 I'm an aspiring Penetration Tester with a Master's in Computer Science and hands-on offensive security experience from diBimbing's 6-month Cybersecurity Bootcamp. During a live web application pentest, I identified 11 vulnerabilities, including 3 critical and 5 high-severity findings, following OWASP Top 10 methodology, earning the Best Final Project Phase Offensive award.
+
 I work with tools like Nmap, Burp Suite, Metasploit, and Wireshark on Linux, and use Python to streamline my testing workflow. My thesis on vulnerability detection in blockchain smart contracts fuels my interest in emerging attack surfaces beyond the traditional web stack.
+
 I'm currently seeking entry-level opportunities in penetration testing and offensive security, always up for a challenge that involves finding what others miss.
 
 ## 🎓 Education
@@ -32,14 +34,14 @@ I'm currently seeking entry-level opportunities in penetration testing and offen
 
 ## 🏢 Work Experience
 PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
-- Learning how to use dedicated applications for antenna maintenance, thereby understanding how to maintain antennas regularly
-- Simulate the Linux operating system using VirtualBox, so that we can use Linux-based applications within the VirtualBox application
+- Utilized proprietary company applications to assist in the routine maintenance and diagnostic checks of antenna systems, ensuring consistent network performance and adherence to operational standards.
+- Configured a Linux environment using VirtualBox to simulate virtualization processes, specifically testing and analyzing Mail Transfer Protocol (MTP) workflows to understand server-side communication dynamics.
 
 ## 🔍 Skills
-- **Hard Skills:** Penetration Testing, Risk Assessment, Threat Detection, Incident Response
-- **Soft Skills:** Communication, Continuous Learning, Time Management, Dedication
+- **Hard Skills:** Vulnerability Assessment and Penetration Testing, Vulnerability Management, Ethical Hacking, Threat Analysis, Risk Assessment, and Network Security
+- **Soft Skills:** Time Management, Analytical Thinking, Critical Thinking, and Continuous Learning
 - **Tools:** Burp Suite, Wireshark, Metasploit, Nmap
-- **Languages:** Indonesian, English
+- **Languages:** Indonesian (Native), English (Professional working proficiency)
 
 ---
 
@@ -175,6 +177,6 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 
 ## 📬 Contact
 📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]` | 📱 `[+62 82246894989]`  
-*Open for Security Analyst / Pentester / DFIR Roles*
+*Open for Pentester Role*
 
 > *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
