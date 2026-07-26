@@ -14,7 +14,6 @@
 - [🔵 Defensive Security Portfolio](DEFENSIVE_SECURITY.md)
 - [🛠️ Tools & Frameworks](#-tools--frameworks)
 - [📊 Competencies Demonstrated](#-competencies-demonstrated)
-- [📖 Projects](#-projects)
 - [📄 Certificates](#-certificates)
 - [🏅 Achievements](#-achievements)
 - [📬 Contact](#-contact)
@@ -75,12 +74,14 @@ Digital Forensics & Incident Response case study reconstructing a full server co
 
 ---
 
-## 📖 Projects
-- **Hierarchical Graph Transformer with Adaptive Community Integration for Smart Contracts Vulnerability Detection.** A deep learning model implementing Hierarchical Graph Transformer to detect vulnerabilities in smart contract for DevSecOps purpose.
-
 ## 📄 Certificates
-- **Cybersecurity Essentials** by Cisco (July 2026)
-- **Cybersecurity Bootcamp** by dibimbing (March 2026)
+- **Intermediate Cybersecurity + AI Essentials** (On Progress) by Google 
+- **Intermediate Associate Network Administrator** (Completed July 2026) by Digitalent 
+- **Cybersecurity Essentials** (Completed July 2026) by Cisco Networking Academy 
+- **Networking Devices and Initial Configuration** (Completed April 2026) by Cisco 
+- **Cybersecurity Bootcamp** (Completed March 2026) by diBimbing  
+- **Learn Google Cloud Fundamentals** (Completed August 2024) by Dicoding Indonesia 
+- **Getting Started Programming with Python** (Completed February 2024) by Dicoding Indonesia
 
 ## 🏅 Achievements
 - Best Final Project Phase Offensive in CyberSecurity Bootcamp Batch 4
@@ -89,6 +90,4 @@ Digital Forensics & Incident Response case study reconstructing a full server co
 ---
 
 ## 📬 Contact
-📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi-4348a6212]` | 📱 `[+62 82246894989]`  
-
-> *All sensitive data (IPs, passwords, session IDs, exact payloads) has been redacted for security. Full technical reports with PoC screenshots are available upon request under NDA.*
+📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi]`  
