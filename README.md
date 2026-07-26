@@ -90,4 +90,4 @@ Digital Forensics & Incident Response case study reconstructing a full server co
 ---
 
 ## 📬 Contact
-📧 `[rafilmiputra@gmail.com]` | 💼 `[www.linkedin.com/in/rafi-ilmi-putra-nurwahyudi]`  
+📧 `[rafilmiputra@gmail.com]` | 💼 `[linkedin.com/in/rafi-ilmi-putra-nurwahyudi]`  
