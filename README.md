@@ -20,11 +20,11 @@
 
 ---
 ## 🧑‍🔬 About Me
-I'm an aspiring Penetration Tester with a Master's in Computer Science and hands-on offensive security experience from diBimbing's 6-month Cybersecurity Bootcamp. During a live web application pentest, I identified 11 vulnerabilities, including 3 critical and 5 high-severity findings, following OWASP Top 10 methodology, earning the Best Final Project Phase Offensive award.
+Aspiring Penetration Tester with hands-on offensive and defensive security experience gained through an intensive 6-month Cybersecurity Bootcamp at diBimbing, covering both red team and blue team methodologies. During a one-month offensive security engagement, I conducted a full penetration test on a live web application following the OWASP Top 10 and OWASP Testing Guide, identifying 11 vulnerabilities, including 3 critical and 5 high-severity findings, which earned me the Best Final Project Phase Offensive award.
 
-I work with tools like Nmap, Burp Suite, Metasploit, and Wireshark on Linux, and use Python to streamline my testing workflow. My thesis on vulnerability detection in blockchain smart contracts fuels my interest in emerging attack surfaces beyond the traditional web stack.
+I work confidently with Burp Suite, Nmap, Metasploit, and Wireshark on Linux environments, and use Python to support reconnaissance and exploitation workflows. My academic background includes a Master's in Computer Science, with thesis research on vulnerability detection in blockchain smart contracts, giving me an additional edge in emerging attack surfaces beyond traditional web and network environments.
 
-I'm currently seeking entry-level opportunities in penetration testing and offensive security, always up for a challenge that involves finding what others miss.
+I am eager to find opportunities to learn, grow, and contribute in a professional environment. If you are interested in working together, let's connect on LinkedIn or contact me at rafilmiputra@gmail.com.
 
 ## 🎓 Education
 - **University of Electronic Science and Technology of China**, Master of Computer Science (Sep 2024 - Jul 2026)
@@ -37,10 +37,12 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 - Configured a Linux environment using VirtualBox to simulate virtualization processes, specifically testing and analyzing Mail Transfer Protocol (MTP) workflows to understand server-side communication dynamics.
 
 ## 🔍 Skills
-- **Hard Skills:** Vulnerability Assessment and Penetration Testing, Vulnerability Management, Ethical Hacking, Threat Analysis, Risk Assessment, and Network Security
-- **Soft Skills:** Time Management, Analytical Thinking, Critical Thinking, and Continuous Learning
-- **Tools:** Burp Suite, Wireshark, Metasploit, Nmap
-- **Languages:** Indonesian (Native), English (Professional working proficiency)
+- **Security**: Network Security, Penetration Testing, Incident Response, Threat Intelligence, Risk Assessment, Cryptography, Security Training, Security Awareness 
+- **Tools**: Kali Linux, Nmap, Wireshark, Wazuh, Burp Suite, Metasploit, OpenSSL 
+- **Systems & Networking**: Linux & Windows administration, TCP/IP, routing, switching, VLAN/subnetting 
+- **Scripting & Cloud**: Python, Bash, Google Cloud Platform (GCP) 
+- **Soft Skills**: Technical Reporting & Communication, Analytical Problem-Solving, Cross-Team Collaboration, Continuous Learning 
+- **Languages**: Indonesian (Native), English (Professional)
 
 ---
 
