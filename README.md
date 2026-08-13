@@ -28,6 +28,7 @@ I am eager to find opportunities to learn, grow, and contribute in a professiona
 
 ## 🎓 Education
 - **University of Electronic Science and Technology of China**, Master of Computer Science (Sep 2024 - Jul 2026)
+- **Dibimbing**, Cybersecurity Bootcamp (Oct 2025 - Mar 2026)
 - **Shandong University of Science and Technology**, Bachelor of Telecommunication Engineering (Sep 2022 - Jul 2024)
 - **State Polytechnic of Malang**, Bachelor of Applied Studies (Sep 2020 - Jul 2022)
 
@@ -47,12 +48,12 @@ PT Dwi Tunggal Putra, Student Intern (2019 Jul - 2019 Sep)
 ---
 
 ## 🔴 Offensive Security Portfolio
-Full black-box web application penetration test of an e-commerce platform — 11 vulnerabilities found (3 Critical, 5 High), including SQL Injection, chained XSS → admin privilege escalation, and business logic flaws.
+Full black-box web application penetration test of an e-commerce platform: 11 vulnerabilities found (3 Critical, 5 High), including SQL Injection, chained XSS → admin privilege escalation, and business logic flaws.
 
 **➡ [Read the full Offensive Security Portfolio](OFFENSIVE_SECURITY.md)**
 
 ## 🔵 Defensive Security Portfolio
-Digital Forensics & Incident Response case study reconstructing a full server compromise — from initial recon to root access, webshell deployment, and anti-forensic log tampering, mapped to MITRE ATT&CK.
+Digital Forensics & Incident Response case study reconstructing a full server compromise: from initial recon to root access, webshell deployment, and anti-forensic log tampering, mapped to MITRE ATT&CK.
 
 **➡ [Read the full Defensive Security Portfolio](DEFENSIVE_SECURITY.md)**
 
