@@ -27,7 +27,7 @@ why it exists (e.g., client-side-only restriction, no server-side enforcement).
 
 ## Proof of Concept (Screenshots/Video)
 Before: navigation menu without Score Board.
-![screenshot](forced-browsing-before.png)
+![screenshot](forced-browsing-before.png)  
 After: page loaded directly via URL, and the feature now appears.
 ![screenshot](forced-browsing-after.png)
 
