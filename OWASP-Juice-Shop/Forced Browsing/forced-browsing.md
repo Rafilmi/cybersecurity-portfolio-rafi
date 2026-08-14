@@ -13,7 +13,7 @@ A01:2025 – Broken Access Control
 ## Affected Component
 - URL/Endpoint: `/score-board`
 - Application: OWASP Juice Shop
-- Environment: Local instance, version X.X.X
+- Environment: Local instance, version 20.2.0
 
 ## Description
 Explain the vulnerability in technical detail — what's happening under the hood,
