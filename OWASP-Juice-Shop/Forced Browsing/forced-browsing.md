@@ -26,8 +26,8 @@ why it exists (e.g., client-side-only restriction, no server-side enforcement).
 4. Note that the "Score Board" menu item now appears in the nav bar
 
 ## Proof of Concept (Screenshots/Video)
-![screenshot](../screenshots/01-scoreboard-before.png)
-![screenshot](../screenshots/01-scoreboard-after.png)
+![screenshot](forced-browsing-before.png)
+![screenshot](forced-browsing-after.png)
 
 ## Impact
 What could an attacker do with this? (e.g., access hidden admin functionality,
