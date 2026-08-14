@@ -26,7 +26,9 @@ why it exists (e.g., client-side-only restriction, no server-side enforcement).
 4. Note that the "Score Board" menu item now appears in the nav bar
 
 ## Proof of Concept (Screenshots/Video)
+Before: navigation menu without Score Board.
 ![screenshot](forced-browsing-before.png)
+After: page loaded directly via URL, and the feature now appears.
 ![screenshot](forced-browsing-after.png)
 
 ## Impact
