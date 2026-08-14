@@ -20,10 +20,9 @@ Explain the vulnerability in technical detail — what's happening under the hoo
 why it exists (e.g., client-side-only restriction, no server-side enforcement).
 
 ## Steps to Reproduce
-1. Navigate to the running instance
-2. Manually enter `/score-board` in the URL bar
-3. Observe that the page loads without authentication or menu access
-4. Note that the "Score Board" menu item now appears in the nav bar
+1. On home page, manually enter `/score-board` in the URL bar
+2. Observe that the page loads without authentication or menu access
+3. Note that the "Score Board" menu item now appears in the nav bar
 
 ## Proof of Concept (Screenshots/Video)
 Before: navigation menu without Score Board.
