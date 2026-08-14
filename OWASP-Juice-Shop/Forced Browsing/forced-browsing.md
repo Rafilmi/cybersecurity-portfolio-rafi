@@ -8,7 +8,7 @@ Critical / High / Medium / Low / Informational
 (Optionally map to CVSS score if you want to look more professional)
 
 ## Category (OWASP Classification)
-e.g., A01:2021 – Broken Access Control
+A01:2025 – Broken Access Control
 
 ## Affected Component
 - URL/Endpoint: `/score-board`
