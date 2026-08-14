@@ -43,5 +43,4 @@ instead of enforcing access control server-side or via route guards)
 - Apply the principle of "fail securely" — deny by default
 
 ## References
-- OWASP Top 10: A01:2021 – Broken Access Control
-- OWASP Juice Shop Official Solution (if applicable)
+- OWASP Top 10: A01:2025 – Broken Access Control
