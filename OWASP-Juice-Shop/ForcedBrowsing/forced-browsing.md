@@ -4,7 +4,7 @@
 The /score-board page is not linked in the application's navigation menu for unauthenticated or unprivileged users, giving the impression that it is restricted or hidden. However, the page has no server-side access control and can be reached directly by manually entering the URL, exposing functionality and data that was intended to remain inaccessible.
 
 ## Severity
-Medium CVSS 3.1 Base Score: 5.3
+Medium CVSS 3.1 Base Score: 5.3  
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
 
 ## Category (OWASP Classification)
