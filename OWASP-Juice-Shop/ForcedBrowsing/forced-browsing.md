@@ -25,7 +25,7 @@ In this case, the Juice Shop score board is only hidden from the navigation menu
 2. Observe that the page loads without authentication or menu access
 3. Note that the "Score Board" menu item now appears in the navigation bar
 
-## Proof of Concept (Screenshots/Video)
+## Proof of Concept
 ![screenshot](forced-browsing-before.png)  
 ![screenshot](forced-browsing-after.png)  
 1st image: navigation menu without Score Board.  
